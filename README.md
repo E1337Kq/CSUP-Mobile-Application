@@ -1,6 +1,6 @@
 # CSUP-Mobile-Application
 
-Put here one line about your project.
+Case Study project at Universty "Making Android WeatherApp for Montenegrin beaches".
 
 ### Project Overview
 

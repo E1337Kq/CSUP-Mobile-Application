@@ -1,6 +1,6 @@
 # CSUP-Mobile-Application
 
-Case Study project at Universty "Making Android WeatherApp for Montenegrin beaches".
+Case Study project at University of Donja Gorica "Making Android WeatherApp for Montenegrin beaches".
 
 ### Project Overview
 

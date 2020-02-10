@@ -13,4 +13,22 @@ The main idea of this project is to create a mobile application that will focus 
 
 ### Technology Stack
 
-* Describe here technology stack you are using.
+
+For this project I used :
+
+• Android Studio
+• JAVA
+• Data from web server based on Django Framework
+
+Dependencies that I used:
+
+    implementation 'androidx.appcompat:appcompat:1.0.2'
+    implementation 'com.google.android.material:material:1.0.0'
+    implementation 'androidx.cardview:cardview:1.0.0'
+    implementation 'androidx.constraintlayout:constraintlayout:1.1.3'
+    
+### ScreenShoots from APP
+
+
+    
+    

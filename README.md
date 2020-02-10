@@ -8,8 +8,7 @@ The main idea of this project is to create a mobile application that will focus 
 
 ### Logical View
 
-* Place here figure that depicts logical overview of your project. (You can use draw.io).
-
+![logicalView Diagram](https://github.com/E1337Kq/CSUP-Mobile-Application/blob/master/images/Untitled%20Diagram.png)
 
 ### Technology Stack
 
@@ -29,6 +28,15 @@ Dependencies that I used:
     
 ### ScreenShoots from APP
 
+![logicalView Diagram](https://github.com/E1337Kq/CSUP-Mobile-Application/blob/master/images/0Intro.jpg)
+![logicalView Diagram](https://github.com/E1337Kq/CSUP-Mobile-Application/blob/master/images/1Main.jpg)
+![logicalView Diagram](https://github.com/E1337Kq/CSUP-Mobile-Application/blob/master/images/2List.jpg)
+![logicalView Diagram](https://github.com/E1337Kq/CSUP-Mobile-Application/blob/master/images/3ListAndFilter.jpg)
+![logicalView Diagram](https://github.com/E1337Kq/CSUP-Mobile-Application/blob/master/images/4ListItem.jpg)
+![logicalView Diagram](https://github.com/E1337Kq/CSUP-Mobile-Application/blob/master/images/5DialBut.jpg)
+![logicalView Diagram](https://github.com/E1337Kq/CSUP-Mobile-Application/blob/master/images/6DialButton.jpg)
+![logicalView Diagram](https://github.com/E1337Kq/CSUP-Mobile-Application/blob/master/images/7MailSubButton.jpg)
+![logicalView Diagram](https://github.com/E1337Kq/CSUP-Mobile-Application/blob/master/images/8MailLoading.jpg)
+![logicalView Diagram](https://github.com/E1337Kq/CSUP-Mobile-Application/blob/master/images/9MailSent.jpg)
 
-    
-    
+   
